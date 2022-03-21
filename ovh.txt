@@ -1,0 +1,2 @@
+mysql: kdkagtrpgrw
+passwort: pgrw2022ABC
