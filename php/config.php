@@ -5,8 +5,8 @@
     $CONFIG_DB_USER = "root";
     $CONFIG_DB_PASS = "";
 
-    $CONFIG_USER_PASS = "HoediBaer2022";
-    $CONFIG_ADMIN_PASS = "HoediBaer2022Meister";
+    $CONFIG_USER_PASS = "HoediBaer2022";                //Login User Password
+    $CONFIG_ADMIN_PASS = "HoediBaer2022Meister";        //Login Admi Password
 
 
 /*
