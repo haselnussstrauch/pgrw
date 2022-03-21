@@ -3,6 +3,8 @@ Tool for election counting in smaller communities
 
 A PHP /JS tool for couting elections in smaller communities.
 
+USING BOOTSTRAP AND JQUERY (included in Source)
+
 1. Setup a webserver with PHP support (i'm using XAMPP).
 2. Copy source to http directory of your webserver
 3. Adjust settings in "php/config.php"
